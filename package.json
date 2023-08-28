@@ -11,7 +11,20 @@
     "lint:fix": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore --fix"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "@headlessui-float/vue": "^0.11.2",
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.5",
+    "@types/lodash.range": "^3.2.7",
+    "@vee-validate/zod": "^4.11.3",
+    "lodash.range": "^3.2.0",
+    "maska": "^2.1.10",
+    "pinia": "^2.1.6",
+    "vee-validate": "^4.11.3",
+    "vue": "^3.3.4",
+    "vue-multiselect": "3.0.0-beta.2",
+    "vue-router": "^4.2.4",
+    "zod": "^3.22.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.40.2",
